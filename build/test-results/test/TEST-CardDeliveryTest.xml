@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CardDeliveryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-14T23:07:07" hostname="DESKTOP-02N8AKF" time="26.411">
+<testsuite name="CardDeliveryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-14T23:12:44" hostname="DESKTOP-02N8AKF" time="27.326">
   <properties/>
-  <testcase name="testForTest1()" classname="CardDeliveryTest" time="15.211"/>
-  <testcase name="testForTest2()" classname="CardDeliveryTest" time="11.2"/>
+  <testcase name="testForTest1()" classname="CardDeliveryTest" time="16.309"/>
+  <testcase name="testForTest2()" classname="CardDeliveryTest" time="11.016"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
-[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Education\JavaAvto\AutoJavaL2.2\AJavaL2.2\build\downloads\1671059227224_14280_1
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Education\JavaAvto\AutoJavaL2.2\AJavaL2.2\build\downloads\1671059564442_11956_1
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Станислав\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
 [Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
-Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 5341
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 11893
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
 [Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
 [Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
-дек. 15, 2022 2:07:09 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+дек. 15, 2022 2:12:47 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 107
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=108.0.5359.99 Platform=WINDOWS
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 6.10.1
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 4.6.0 build revision: 79f1c02ae20
-[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 1: ChromeDriver -> ChromeDriver: chrome on WINDOWS (6bd245d9011d4365f2512ad6550c908e)
-[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig,webDriver=ChromeDriver: chrome on WINDOWS (6bd245d9011d4365f2512ad6550c908e),proxy=null,downloadsFolder=C:\Education\JavaAvto\AutoJavaL2.2\AJavaL2.2\build\downloads\1671059227224_14280_1] in 1 [size=1]
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 1: ChromeDriver -> ChromeDriver: chrome on WINDOWS (ac87d8278962261ca0d569f38d3ef3f1)
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig,webDriver=ChromeDriver: chrome on WINDOWS (ac87d8278962261ca0d569f38d3ef3f1),proxy=null,downloadsFolder=C:\Education\JavaAvto\AutoJavaL2.2\AJavaL2.2\build\downloads\1671059564442_11956_1] in 1 [size=1]
 [Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Add shutdown hook in 1 [size=1]
 ]]></system-err>
 </testsuite>
